@@ -299,6 +299,36 @@ Full-Width Styles
   padding: 50px 10px 30px 10px;
 }
 
+#myname {
+  margin: 0;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+#personal_photo {
+  float: right;
+  width: 155;
+  height: 200;
+}
+
+#myaddress {
+  margin: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  text-shadow: #111 0px 0px 10px;
+}
+
+
+#contact_info {
+  margin: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  text-shadow: #111 0px 0px 10px;
+}
+
 #project_title {
   margin: 0;
   color: #fff;
