@@ -1,19 +1,19 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Frenzy.ai
+  position: Co-Founder, SoftwareEngineer
+  duration: Mar, 2017 &mdash; Present
+  summary: Frenzy identifies and tags brand-specific products in photographs. Using deep learning and computer vision, it's able to parse through each item in a web image to determine the exact brand, SKU, and where it can be purchased. <ul class="resume-item-list"><li>Built a process for parsing RSS feed and scraping articles from it, kept tracking of 150+ fashion blogs’ updates for one month till now. Sped up article scraping for collecting training data for visual search algorithm (Neural Network).</li><li>Using AngularJS to collect client added RSS feed and showing continent of all blogs at once time; running scheduled backend RSS feed parsing process on server to keep track of updating.</li><li>Currently working on packaging the process into api, as inventor in the patent application for the api</li></ul>
 
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: OptimisCorp
+  position: Web Developer Intern
+  duration:  May, 2017 &mdash; Aug, 2017
+  summary: <ul class="resume-item-list"><li>Independently worked on a richly featured cloud based communication platform for doctors and patients.</li><li>Updated third party API for payment module to improve safety; finished Doc to Doc communication.</li><li>Designed and developed a brand new module for office appointment request following OOP style.</li></ul>
 
 
 # Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: Beijing Uyixing Technology Co Ltd.
+  position: WebDeveloperIntern
+  duration: Mar, 2015  &mdash; Jul, 2015
+  summary: <ul class="resume-item-list"><li>Developed user management and e-commerce modules, using PHP based on CodeIgniter.</li><li>Designed relational data base schemas of user and e-commerce modules, on MySQL.</li></ul>
