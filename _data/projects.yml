@@ -1,12 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
+- project: 'Operating System: Weenix'
+  role: Team leader & Programmer
+  duration: Jan, 2017 &mdash; Apr, 2017
+  # url: "#"
+  description: 'Course projects of CSCI 402 @USC. <ul class="resume-item-list"><li>Led in a team of 4 to develop a fully functional Weenix Operating Systems (like Unix V).</li><li>Implemented Processes and Threads, Virtual File System and Virtual Memory, undertook 70% of debugging task.</li><li>Gained well understanding of multi threading, mutex, conditional wait, interrupt, trap, upcall.</li></ul>'
+
 - project: ’Sporit’ — Online courses in sport
   role: Web Developer
   duration: Jan, 2017 &mdash; Mar, 2017
   # url: "#"
   description: Provide professional video based online courses in sport field. <ul class="resume-item-list"><li>Collaborated to develop back end logic of login and payment module using third party API (WeChat), in NodeJS.</li><li>Set up cloud server on Alibaba cloud.</li></ul>
+
+- project: Java Practice
+  role: Programmer
+  duration: Dec, 2016 &mdash; May, 2017
+  # url: "#"
+  description: 'Course projects of CSCI 455 @USC and Algorithms Part I @Coursera.<ul class="resume-item-list"><li>Practiced for using Java Library API: ArrayList, LinkedList, TreeSetandHashSet, TreeMap and HashMap.</li><li>Implemented algorithms and data structures: Union-Find, Deque and Randomized queue, Quick sort, A* search and Priority Queue, Kd-tree.</li><li>Gained hand on experience of OOP, like inheritance, override and interface, etc.</li></ul>'
 
 # donutfinder.io
 - project: Online Exam Website
