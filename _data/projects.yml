@@ -2,15 +2,22 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: ’Sporit’ — Online courses in sport
+  role: Web Developer
+  duration: Jan, 2017 &mdash; Mar, 2017
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Provide professional video based online courses in sport field. <ul class="resume-item-list"><li>Collaborated to develop back end logic of login and payment module using third party API (WeChat), in NodeJS</li><li>Set up cloud server on Alibaba cloud</li></ul>
+
+# donutfinder.io
+- project: Online Exam Website
+  role: Programmer
+  duration: Dec, 2012 &mdash; Dec, 2012
+  # url: "#"
+  description: <ul class="resume-item-list"><li>Worked in a team of four, developed a online test website containing a cloud based question pool, an user content management system, an online test interface, and a real time report system</li><li>Used Java as backend language, Javascript as front end language, Tomcat as server software, and MySQL as database.</li><li>In charge of management of developing environment, designing database schema, building up the framework of the website. Awarded as the best work.</li></ul>
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Tracking Robot
+  role: Team leader & Programmer
+  duration: May, 2012 &mdash; Jul, 2012
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: <ul class="resume-item-list"><li>Led a team of four, designed and developed a robot with ability of route tracking and obstacle avoidance.</li><li>In charge of the implementation of tracking and control algorithms in the robot software based on Freescale MC9S12XS128MAL microprocessor</li></ul>
