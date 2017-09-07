@@ -12,13 +12,13 @@
   summary: <ul class="resume-item-list"><li>Independently worked on a richly featured cloud based communication platform for doctors and patients.</li><li>Updated third party API for payment module to improve safety; finished Doc to Doc communication.</li><li>Designed and developed a brand new module for office appointment request following OOP style.</li></ul>
 
 # Front Desk Attendant
-- company: Beijing Uyixing Technology Co., Ltd.
+- company: Beijing Uyixing
   position: Web Developer Intern
   duration: Mar, 2015  &mdash; Jul, 2015
   summary: <ul class="resume-item-list"><li>Developed user management and e-commerce modules, using PHP based on CodeIgniter.</li><li>Designed relational data base schemas of user and e-commerce modules, on MySQL.</li></ul>
 
 # Front Desk Attendant
-- company: Beijing StarPoint Technology Co., Ltd.
+- company: Beijing StarPoint
   position: L3 & L1 Software Engineer
   duration: Mar, 2013  &mdash; Mar, 2015
   summary: StarPoint is the China’s leading R&D and manufacturer of communications test set, which is the partner of Key Laboratory of Universal wireless communications. I did my graduate research here.<ul class="resume-item-list"><li>Engaged in a team of 5 which is responsible for the implementation of LTE physical layer procedures in terminal test set; Implemented 4 processing procedures, using C on DSP programming.</li><li>Worked in a team responsible for the WCDMA RNC state machine software of the test set. Designed and developed 3 function procedures in state machine, using C / C++ and TTCN-3.</li><li>Invented two patents jointly, one about codec of TTCN-3 based system, and the other about PHICH processing.</li></ul>
