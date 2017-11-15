@@ -1,11 +1,11 @@
 # Skills
 # Donut design
 - skill: Programming Language
-  description: Java • C • PHP • C++ • JavaScript • Python • SQL • MATLAB • HTML & CSS
+  description: Java • PHP • Python • C & C++ • JavaScript • SQL • MATLAB • HTML & CSS
 
 # Craft beer brewing
 - skill: Web Dev
-  description: CodeIgniter • PalconPHP • MySQL • PostgreSQL • AngularJS • NodeJS • MongoDB • AWS
+  description: AWS • CodeIgniter • PalconPHP • MySQL • PostgreSQL • AngularJS • NodeJS • MongoDB
 
 # Family leadership
 - skill: Tools
