@@ -2,7 +2,7 @@
 # Springfield Nuclear Power Plant
 - company: Frenzy.ai
   position: Co-Founder, Software Engineer
-  duration: Mar, 2017 &mdash; Present
+  duration: Mar, 2017 &mdash; Current
   summary: Frenzy identifies and tags brand-specific products in photographs. Using deep learning and computer vision, it's able to parse through each item in a web image to determine the exact brand, SKU, and where it can be purchased. <ul class="resume-item-list"><li>Built a parallel processing job to crawl and analyze content of blog articles from RSS feed.</li><li>Kept tracking of 150+ fashion blogs’ updates. Sped up article scraping for collecting training data for visual search algorithm</li><li>Using AngularJS to collect client added RSS feed and showing continent of all blogs at once time; running scheduled backend RSS feed parsing process on server to keep track of updating.</li><li>Gave advices to interns to finish training tasks, and helped them get familiar with development environment.</li></ul>
 
 # Windmill Crank Operator
